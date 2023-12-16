@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# [module]
+# [[module.mounts]]
+#     source = 'content'
+#     target = 'content'
+# [[module.mounts]]
+#     source = 'static'
+#     target = 'static'
+# [[module.mounts]]
+#     source = 'layouts'
+#     target = 'layouts'
+# [[module.mounts]]
+#     source = 'data'
+#     target = 'data'
+# [[module.mounts]]
+#     source = 'assets'
+#     target = 'assets'
+# [[module.mounts]]
+#     source = 'i18n'
+#     target = 'i18n'
+# [[module.mounts]]
+#     source = 'archetypes'
+#     target = 'archetypes'
+

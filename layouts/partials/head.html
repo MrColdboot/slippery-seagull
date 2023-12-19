@@ -1,0 +1,9 @@
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>{{ .Site.Title }}</title>
+  {{ with resources.Get "style.css" }}
+    {{ $integrity := (. | fingerprint).Data.Integrity }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ $integrity }}">
+  {{ end }}
+</head>

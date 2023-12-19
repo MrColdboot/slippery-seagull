@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    #TableOfContents {
+        @apply font-sans text-lg;
+        & ul {
+            @apply py-1;
+            & li {
+                @apply inline px-2;
+            }
+        }
+    }
+
+    .shadow-top {
+        box-shadow: 0 -1px 15px -2px rgb(195, 23, 230);
+    }
+
+    .shadow-bottom {
+        box-shadow: 0 1px 5px -2px #a0a0a0;
+    }
+
+    .max-w-prose-wide {
+        max-width:80ch;
+    }
+
+    .max-w-prose-wider {
+        max-width:110ch;
+    }
+}

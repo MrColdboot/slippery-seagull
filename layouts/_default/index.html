@@ -1,5 +1,5 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <h2>Super Special Homepage</h2>
+{{- define "main" }}
+  {{ .TableOfContents }}
+  <hr>
   {{ .Content }}
-{{ end }}
+{{- end }}

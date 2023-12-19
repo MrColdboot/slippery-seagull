@@ -1,15 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>{{ .Site.Title }}</title>
-  {{ with resources.Get "style.sass" | toCSS }}
-    {{ $integrity := (. | fingerprint).Data.Integrity }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ $integrity }}">
-  {{ end }}
-</head>
-<body>
-  {{ block "main" . }}{{ end }}
-</body>
+  {{- partial "head.html" . -}}
+  <body>
+    {{- partial "header.html" . -}}
+    {{- block "main" . -}}{{- end -}}
+  </body>
 </html>

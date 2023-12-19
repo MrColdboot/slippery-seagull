@@ -1,4 +1,3 @@
 [build.environment]
-  NODE_VERSION = "value"
-  GO_VERSION = "gover"
-  RUBY_VERSION = ""
+  NODE_VERSION = "20.9"
+  GO_VERSION = "1.21"

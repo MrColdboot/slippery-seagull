@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Ronald A. Brown"
+title = "Test Site"
 [markup]
 [markup.tableOfContents]
     startLevel = 2

@@ -13,7 +13,8 @@ Our mission is to open the lines of communication around all things sexual to be
 
 ## Paradalia
 
-Paraphilia of the Day generated from : https://en.wikipedia.org/wiki/List_of_paraphilias
+                          Paraphilia of the Day generated from: 
+                    https://en.wikipedia.org/wiki/List_of_paraphilias
 
 ## Beginning
 

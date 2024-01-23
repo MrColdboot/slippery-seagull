@@ -1,5 +1,5 @@
 ---
-title: Let's Talk about Sex, Baby.
+title: Let's Talk about Sex, Baby!
 ---
 ## Epithumeo:
 

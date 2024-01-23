@@ -1,8 +1,8 @@
 ---
-title: Let's Talk about Sex, Baby!
+title: "![](/media/free_sample_by_wix-1-.jpg) Let's Talk about Sex, Baby!"
 ---
 ```
-![](/media/free_sample_by_wix-1-.jpg)    Epithumeo: (verb) to lust after things forbidden.
+  Epithumeo: (verb) to lust after things forbidden.
 ```
 
 

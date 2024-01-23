@@ -1,9 +1,8 @@
 ---
-title: Let's Talk about Sex, Baby!
+title: "Let's Talk about Sex, Baby. "
 ---
-##Epithumeo
 
-                             To lust after things forbidden.
+                           Epithumeo: to lust after things forbidden.
 
 ## Mission
 

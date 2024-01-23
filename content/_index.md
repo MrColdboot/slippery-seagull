@@ -1,10 +1,10 @@
 ---
-title: Let's Talk about Sex, Baby.
+title: Let's Talk about Sex, Baby!
 ---
-## Epithumeo:
+## Epithumeo
 
 ```
-                            To lust after things forbidden.
+                              To lust after things forbidden.
 ```
 
 ## Paraphilia of the Day

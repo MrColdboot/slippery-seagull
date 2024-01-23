@@ -5,9 +5,9 @@ title: Let's Talk about Sex, Baby!
                             Epithumeo: (verb) to lust after things forbidden.
 ```
 
-## Mission
-
 ![](/media/free_sample_by_wix-1-.jpg)
+
+## Mission
 
 Let's Talk About Sex. The goal of this project is to encourage people to speak more openly about sex. 
 

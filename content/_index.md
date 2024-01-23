@@ -1,17 +1,19 @@
 ---
 title: Let's Talk about Sex, Baby.
 ---
-## Mission Statement
+## Epithumeo: to lust after things forbidden.
 
-Aliquam auctor fringilla elit, nec consequat quam pellentesque at. Sed ac vulputate neque, eu dapibus dolor. a augue purus, vel pretium enim convallis at. Fusce sollicitudin, augue ut laoreet aliquam, dui tortor gravida urna, id blandit velit tellus a sem. Pellentesque lacus ipsum, lacinia eget enim vitae, convallis euismod sem. Nam malesuada diam eget sodales pulvinar. Duis sed nulla id risus ornare efficitur. Cras nec euismod ligula, et consequat lacus. Sed in risus vitae tortor convallis rhoncus id nec magna. Phasellus congue lorem nec arcu pellentesque, ut cursus nulla lobortis. Nunc aliquam libero sed rutrum dapibus. Maecenas egestas est eu nunc eleifend dignissim.
+
+
+## Let's Talk About Sex: Mission Statement 
+
+The goal of this project is to encourage people to speak more openly about sex. 
+
+Our mission is to open the lines of communication around all things sexual to begin diminishing the stigmas attached to noncriminal paraphilias. A lack of educational resources leads to deaths that could otherwise have been prevented. 
 
 ## Paraphilia of the Day
 
- https://en.wikipedia.org/wiki/List_of_paraphilias
-
-## Resources for Professionals
-
-https://ots-letstalkaboutsex.com/about/
+https://en.wikipedia.org/wiki/List_of_paraphilias
 
 ## Resources for Beginners
 
@@ -25,7 +27,9 @@ Sed quis consectetur elit. Sed pellentesque diam velit, in porta elit auctor sit
 
 Ut orci ex, accumsan sit amet cursus vel, iaculis eu augue. Quisque vehicula tortor metus, eget efficitur tellus viverra eget. Donec urna risus, mattis non felis at, mattis condimentum purus. Mauris fringilla imperdiet tristique. Phasellus sed tortor tempus, luctus dui eget, dictum ipsum. Morbi feugiat vehicula massa, sit amet laoreet eros tristique tempus. Nam sit amet eros mi. Aliquam sapien justo, hendrerit nec rutrum non, iaculis sed justo. Etiam volutpat rutrum orci in vehicula. Sed sit amet dui sem. Nunc interdum euismod nisi et semper. Nunc tincidunt orci in purus auctor, sed dictum dolor iaculis. Quisque a odio risus. Aenean nisi purus, semper vitae lacinia non, condimentum ut leo. Donec dignissim vestibulum condimentum. 
 
+## Resources for Professionals
 
+https://ots-letstalkaboutsex.com/about/
 
 ## Contact
 

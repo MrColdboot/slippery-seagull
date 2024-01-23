@@ -1,10 +1,10 @@
 ---
 title: Let's Talk about Sex, Baby.
 ---
-## Epithumeo: to lust after things forbidden.
+## Epithumeo: 
+               to lust after things forbidden.
 
-
-## Let's Talk About Sex: Mission Statement 
+## Let's Talk About Sex: Mission Statement
 
 The goal of this project is to encourage people to speak more openly about sex. 
 

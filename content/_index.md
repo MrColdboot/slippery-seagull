@@ -1,11 +1,11 @@
 ---
 title: Let's Talk about Sex, Baby!
 ---
-## Mission  
-
 ```
                             Epithumeo: (verb) to lust after things forbidden.
 ```
+
+## Mission
 
 ![](/media/free_sample_by_wix-1-.jpg)
 

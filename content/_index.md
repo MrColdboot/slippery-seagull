@@ -1,8 +1,7 @@
 ---
 title: Let's Talk about Sex, Baby.
 ---
-# Epithumeo: to lust after things forbidden.
-
+## Epithumeo: to lust after things forbidden.
 
 
 ## Let's Talk About Sex: Mission Statement 

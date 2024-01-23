@@ -1,14 +1,17 @@
 ---
 title: Let's Talk about Sex, Baby.
 ---
-## Epithumeo: 
-               to lust after things forbidden.
+## Epithumeo:
+
+```
+                            To lust after things forbidden.
+```
 
 ## Paraphilia of the Day
 
 https://en.wikipedia.org/wiki/List_of_paraphilias
 
-##  Mission 
+## Mission
 
 Let's Talk About Sex. The goal of this project is to encourage people to speak more openly about sex. 
 
@@ -22,10 +25,9 @@ Vestibulum sed metus odio. Aenean varius velit nec mi euismod rhoncus. Vestibulu
 
 Sed quis consectetur elit. Sed pellentesque diam velit, in porta elit auctor sit amet. Nullam luctus, velit quis imperdiet vehicula, tellus lectus eleifend velit, sit amet convallis dui urna vitae mi. Suspendisse nec gravida elit. Phasellus congue vitae dui eu pulvinar. Nullam eget convallis nibh. Nunc feugiat, eros vitae cursus aliquam, justo mi faucibus felis, a posuere mi metus molestie tortor. Integer id nisi est. Maecenas in urna congue, iaculis enim eget, blandit magna. Etiam id varius leo. Suspendisse ac lobortis nisl. Nullam dictum id libero ac luctus.
 
-
 ## Professionals
-https://ots-letstalkaboutsex.com/about/
 
+https://ots-letstalkaboutsex.com/about/
 
 ## Media
 

@@ -1,6 +1,8 @@
 baseURL = "https://slippery-seagull.netlify.app/"
 languageCode = "en-us"
-title = "Test Site"
+title = "Let's Talk about Sex, Baby!"
+theme = "hugo-swift-theme"
+
 [markup]
 [markup.tableOfContents]
     startLevel = 2

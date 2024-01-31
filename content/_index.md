@@ -1,8 +1,6 @@
 ---
 title: Let's Talk about Sex, Baby!
-menus:
-  main:
-    weight: 20
+menus: main
 ---
 
 ```

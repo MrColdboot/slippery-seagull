@@ -2,12 +2,9 @@
 title: Let's Talk about Sex, Baby!
 menus:
   main:
-  - params:
-      class: center
-    parent: Products
-    pre: <i class="fa-solid fa-code"></i>
     weight: 20
 ---
+
 ```
                             Epithumeo: (verb) to lust after things forbidden.
 ```

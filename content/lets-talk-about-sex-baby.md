@@ -2,15 +2,7 @@
 title: New Page Template
 menus: main
 ---
-
-
-
-
-
-
-
-
-
+![](/media/let’s-1-.jpg)
 
 ## Contact
 

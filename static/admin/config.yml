@@ -21,6 +21,6 @@ collections:
         widget: 'list'
         field:
           widget: object
-            fields:
-              - { label: Weight, name: weight, widget: string }
+          fields:
+            - { label: Weight, name: weight, widget: string }
       - { label: 'Body', name: 'body', widget: 'markdown' }

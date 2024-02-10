@@ -20,6 +20,7 @@ collections:
         name: 'menus'
         widget: 'list'
         field:
+          name: main
           widget: object
           fields:
             - { label: Weight, name: weight, widget: string }

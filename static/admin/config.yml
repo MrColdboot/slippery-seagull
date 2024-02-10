@@ -15,6 +15,12 @@ collections:
     #   preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Slug', name: 'slug', widget: 'string', default '{{slug}}' }
-      - { label: 'Published Date', name: 'date', widget: 'datetime' }
+      - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+      - label: 'Menus'
+        name: 'menus'
+        widget: 'list'
+        field:
+          - widget: object
+            fields:
+            - { label: Weight, name: weight }
       - { label: 'Body', name: 'body', widget: 'markdown' }

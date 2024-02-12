@@ -31,10 +31,12 @@
   </div>
 
   {{- range site.Menus }}
-    {{ .Name }}
     {{- range . }}
-      {{ .Name }}
-    {{- end}}
+      {{- range . }}
+        {{ .Name }}
+      {{- end }}
+    {{- end }}
+    // end menus
   {{- end }}
 
 </body>

@@ -26,10 +26,10 @@ collections:
             - label: 'title'
               name: 'title'
               widget: 'string'
-              hint: 'type the name of you menu here, e.g. "main"'
-            - label: 'menu sub data'
-              name: 'menuData'
-              widget: 'object'
-              fields: 
-                - { label: Weight, name: weight, widget: string }
+            #   hint: 'type the name of you menu here, e.g. "main"'
+            # - label: 'menu sub data'
+            #   name: 'menuData'
+            #   widget: 'object'
+            #   fields: 
+            #     - { label: Weight, name: weight, widget: string }
       - { label: 'Body', name: 'body', widget: 'markdown' }

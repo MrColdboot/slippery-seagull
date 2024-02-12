@@ -3,3 +3,4 @@ resources/
 public/
 node_modules/
 assets/style.css
+package-lock.json

@@ -32,7 +32,7 @@
 
   {{- range site.Menus }}
     {{- range . }}
-      {{ .Menu | .Name }}
+      {{ .Menu }} | {{ .Name }}
     {{- end }}
     // end menus
   {{- end }}

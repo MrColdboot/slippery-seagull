@@ -29,8 +29,10 @@
       </footer>
     </div>
   </div>
-  {{- range site.Menus.main }}
+
+  {{- range site.Menus }}
   {{ . }}
-  {{ end }}
+  {{- end }}
+
 </body>
 </html>

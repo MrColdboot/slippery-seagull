@@ -20,7 +20,7 @@ collections:
         widget: 'list'
         field:
           label: 'single menu?'
-          name: 'A name I guess?'
+          name: 'singleMenuObjectInArray: Menus'
           widget: 'object'
           fields:
             - label: 'title'

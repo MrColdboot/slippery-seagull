@@ -17,5 +17,9 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - label: 'Menus'
         name: 'menus'
-        widget: 'string'
+        widget: 'list'
+        field:
+          label: 'single menu?'
+          name: 'A name I guess?'
+          widget: 'string'
       - { label: 'Body', name: 'body', widget: 'markdown' }

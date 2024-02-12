@@ -21,5 +21,9 @@ collections:
         field:
           label: 'single menu?'
           name: 'A name I guess?'
-          widget: 'string'
+          widget: 'object'
+          fields:
+            - label: 'title'
+              name: 'title'
+              widget: 'string'
       - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -15,20 +15,4 @@ collections:
     #   preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - label: 'Menus'
-        name: 'menus'
-        widget: 'list'
-        field:
-          label: 'single menu'
-          name: 'singleMenuObjectInArray: Menus'
-          widget: 'object'
-          fields:
-            - label: 'title'
-              name: 'title'
-              widget: 'string'
-            - label: 'menu sub data'
-              name: menuData
-              widget: object
-              fields:
-                - { label: weight, name: weight, widget: string }
       - { label: 'Body', name: 'body', widget: 'markdown' }
